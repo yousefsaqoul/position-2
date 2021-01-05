@@ -1,0 +1,145 @@
+/* font-family: 'Monoton', cursive;
+font-family: 'Ubuntu', sans-serif; */
+
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+main {
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 800px;
+    height: 700px;
+    background-color: #E3516E;
+}
+main div {
+    position: relative;
+    left: -50px;
+    top: 50px;
+}
+/* --------header styling start-------- */
+main div p:nth-of-type(1) {
+    height: 150px;
+    width: 150px;
+    background-color: #FADE8B;
+    position: relative;
+    top: 182px;
+    left: 450px;
+    border-radius: 0 150px 0 0;
+
+}
+
+main div p:nth-of-type(2) {
+    height: 150px;
+    width: 150px;
+    background-color: #51B5A9;
+    position: relative;
+    top: 16px;
+    left: 300px;
+    border-radius: 150px 0 0 0;
+
+
+}
+main div p:nth-of-type(3) {
+    height: 150px;
+    width: 150px;
+    background-color: #F7F3D7;
+    position: relative;
+    top: 0px;
+    left: 300px;
+    border-radius: 0 0 0 150px;
+
+}
+main div p:nth-of-type(4) {
+    height: 150px;
+    width: 150px;
+    background-color: #E3516E;
+    position: relative;
+    bottom: 166px;
+    left: 450px;
+    border-radius: 0 0 150px 0;
+}
+
+
+
+
+section {
+    width: 800px;
+    height: 700px;
+    background-color: #000;
+    margin-left: 300px;
+}
+
+section div:nth-of-type(1) {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #eca03d;
+    position: relative;
+    left: 330px;
+    top: 200px;
+
+
+
+}
+section div:nth-of-type(2){
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    background-color: #eca03d;
+    border-bottom-left-radius: 85px;
+    border-bottom-right-radius: 85px;
+    left: 506px;
+    bottom: -476px;
+}
+section div:nth-of-type(3){
+    position: relative;
+    width: 150px;
+    height: 75px;
+    background-color: #eca03d;
+    border-top-left-radius: 85px;
+    border-top-right-radius: 85px;
+    left: 502px;
+    top: 25px;
+}
+section div:nth-of-type(4){
+
+
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #191210;
+    left: 355px;
+    top: -50px;
+}
+section div:nth-of-type(5){
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #84271c;
+    left: 679px;
+    bottom : -455px;
+}
+section div:nth-of-type(6){
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #000;
+    bottom: -450px;
+    left: 529px;
+}
+section div:nth-of-type(7){
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: #000;
+    bottom: -447px;
+    right: 505px;
+}
+
+
