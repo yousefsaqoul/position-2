@@ -88,8 +88,8 @@ section div:nth-of-type(2){
     width: 150px;
     height: 75px;
     background-color: #eca03d;
-    border-bottom-left-radius: 85px;
-    border-bottom-right-radius: 85px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
     left: 210px;
     bottom: 356px;
 }
@@ -98,8 +98,8 @@ section div:nth-of-type(3){
     width: 150px;
     height: 75px;
     background-color: #eca03d;
-    border-top-left-radius: 85px;
-    border-top-right-radius: 85px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
     left: 502px;
     top: 25px;
 }
